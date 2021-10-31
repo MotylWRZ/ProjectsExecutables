@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:1d1581ab948e8ceaeb7c85d6c59cf9eb:51cfc6e0a5e365cdd4ab240f425e1a3f:67b43a023feb08ec29a7f72b09b56f23$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="sprites/weapons/spr_explode.png" width="1888" height="1624">
+    <sprite n="Explode-0.png" x="0" y="0" w="236" h="232"/>
+    <sprite n="Explode-1.png" x="236" y="0" w="236" h="232"/>
+    <sprite n="Explode-2.png" x="472" y="0" w="236" h="232"/>
+    <sprite n="Explode-3.png" x="708" y="0" w="236" h="232"/>
+    <sprite n="Explode-4.png" x="944" y="0" w="236" h="232"/>
+    <sprite n="Explode-5.png" x="1180" y="0" w="236" h="232"/>
+    <sprite n="Explode-6.png" x="1416" y="0" w="236" h="232"/>
+    <sprite n="Explode-7.png" x="1652" y="0" w="236" h="232"/>
+    <sprite n="Explode-8.png" x="0" y="232" w="236" h="232"/>
+    <sprite n="Explode-9.png" x="236" y="232" w="236" h="232"/>
+    <sprite n="Explode-10.png" x="472" y="232" w="236" h="232"/>
+    <sprite n="Explode-11.png" x="708" y="232" w="236" h="232"/>
+    <sprite n="Explode-12.png" x="944" y="232" w="236" h="232"/>
+    <sprite n="Explode-13.png" x="1180" y="232" w="236" h="232"/>
+    <sprite n="Explode-14.png" x="1416" y="232" w="236" h="232"/>
+    <sprite n="Explode-15.png" x="1652" y="232" w="236" h="232"/>
+    <sprite n="Explode-16.png" x="0" y="464" w="236" h="232"/>
+    <sprite n="Explode-17.png" x="236" y="464" w="236" h="232"/>
+    <sprite n="Explode-18.png" x="472" y="464" w="236" h="232"/>
+    <sprite n="Explode-19.png" x="708" y="464" w="236" h="232"/>
+    <sprite n="Explode-20.png" x="944" y="464" w="236" h="232"/>
+    <sprite n="Explode-21.png" x="1180" y="464" w="236" h="232"/>
+    <sprite n="Explode-22.png" x="1416" y="464" w="236" h="232"/>
+    <sprite n="Explode-23.png" x="1652" y="464" w="236" h="232"/>
+    <sprite n="Explode-24.png" x="0" y="696" w="236" h="232"/>
+    <sprite n="Explode-25.png" x="236" y="696" w="236" h="232"/>
+    <sprite n="Explode-26.png" x="472" y="696" w="236" h="232"/>
+    <sprite n="Explode-27.png" x="708" y="696" w="236" h="232"/>
+    <sprite n="Explode-28.png" x="944" y="696" w="236" h="232"/>
+    <sprite n="Explode-29.png" x="1180" y="696" w="236" h="232"/>
+    <sprite n="Explode-30.png" x="1416" y="696" w="236" h="232"/>
+    <sprite n="Explode-31.png" x="1652" y="696" w="236" h="232"/>
+    <sprite n="Explode-32.png" x="0" y="928" w="236" h="232"/>
+    <sprite n="Explode-33.png" x="236" y="928" w="236" h="232"/>
+    <sprite n="Explode-34.png" x="472" y="928" w="236" h="232"/>
+    <sprite n="Explode-35.png" x="708" y="928" w="236" h="232"/>
+    <sprite n="Explode-36.png" x="944" y="928" w="236" h="232"/>
+    <sprite n="Explode-37.png" x="1180" y="928" w="236" h="232"/>
+    <sprite n="Explode-38.png" x="1416" y="928" w="236" h="232"/>
+    <sprite n="Explode-39.png" x="1652" y="928" w="236" h="232"/>
+    <sprite n="Explode-40.png" x="0" y="1160" w="236" h="232"/>
+    <sprite n="Explode-41.png" x="236" y="1160" w="236" h="232"/>
+    <sprite n="Explode-42.png" x="472" y="1160" w="236" h="232"/>
+    <sprite n="Explode-43.png" x="708" y="1160" w="236" h="232"/>
+    <sprite n="Explode-44.png" x="944" y="1160" w="236" h="232"/>
+    <sprite n="Explode-45.png" x="1180" y="1160" w="236" h="232"/>
+    <sprite n="Explode-46.png" x="1416" y="1160" w="236" h="232"/>
+    <sprite n="Explode-47.png" x="1652" y="1160" w="236" h="232"/>
+    <sprite n="Explode-48.png" x="0" y="1392" w="236" h="232"/>
+    <sprite n="Explode-49.png" x="236" y="1392" w="236" h="232"/>
+    <sprite n="Explode-50.png" x="472" y="1392" w="236" h="232"/>
+</TextureAtlas>

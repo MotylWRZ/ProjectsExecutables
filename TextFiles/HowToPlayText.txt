@@ -1,0 +1,26 @@
+W - Move Up
+S - Move Down
+A - Move Left
+D - Move Right
+1, 2, 3 - Weapon Changing
+Aim - Mouse Movement
+Fire Bullets - Left Mouse Button
+Sprint - Hold SHIFT
+Pause Menu - Esc
+
+Tips:
+To finish the Level you have to eliminate all enemies
+Collect the golden coins to increase your score
+Pick Up ammo boxes to increase your ammo amount and health flasks to regain your health
+The red arrow will help you find the enemies
+
+Enemies:
+Melee Enemy - high damage value, high strenght
+Ranged Enemy - low damage value, can attack at range and at melee, low strenght
+Elite Enemy - high damage value, can attack at range and at melee, high strenght,
+ can spawn a small enemy regiment to help in battle
+
+Weapons:
+Pistol - do not need ammo (unlimited ammo),  low damage output
+Blitz Weapon - needs 3 ammo per shot, very high damage output
+Assault Rifle - needs 1 ammo per shot, moderate damage output

@@ -1,0 +1,16 @@
+Media/Textures/menuscreen.png
+Media/Textures/fear-logo.png
+Media/Fonts/contrast.ttf
+200 40 20
+255 255 255
+255 255 100
+255 0 0
+50 200
+RIGHT_JUSTIFIED
+Play Game
+Controls
+Credits
+Exit
+
+
+
